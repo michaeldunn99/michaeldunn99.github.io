@@ -1,7 +1,7 @@
 # My Personal Website
 
 Welcome to my personal website!  
-You can view it live at [yourusername.github.io](https://yourusername.github.io).
+You can view it live at [michaeldunn99.github.io](https://michaeldunn99.github.io).
 
 This site includes:
 - About me

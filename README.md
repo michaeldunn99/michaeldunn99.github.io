@@ -15,6 +15,6 @@ Built with plain HTML, CSS, and JavaScript.
 Just clone the repo and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/yourusername/yourusername.github.io
+git clone https://github.com/michaeldunn99/michaeldunn99.github.io
 cd yourusername.github.io
 open index.html

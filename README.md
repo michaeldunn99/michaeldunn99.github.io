@@ -16,5 +16,5 @@ Just clone the repo and open `index.html` in your browser.
 
 ```bash
 git clone https://github.com/michaeldunn99/michaeldunn99.github.io
-cd yourusername.github.io
+cd michaeldunn99.github.io
 open index.html
